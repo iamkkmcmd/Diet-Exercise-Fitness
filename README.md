@@ -18,8 +18,7 @@
 <hr>
 
 ## :information_source: $\textcolor{#e6a743}{\text{\textbf{About}}}$
-:snowflake: A project report submitted for the partial fulfillment of Semester-I, Programming for Data Science - M.Sc. Big Data Analytics.\
-:snowflake: Time Span: **Aug'22 - Jan'23**\
+:snowflake: Time Span: **Feb'23 - Present**\
 :snowflake: Tag:  `Data Visualization` `GGPlot` `Data Manipulation` \
 :snowflake: Programming Language: R, Python\
 :snowflake: Technology: Jupyter Notebook, R Studio
